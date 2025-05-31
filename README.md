@@ -38,7 +38,7 @@ Relevant coursework:
 - Visualized KPIs to guide marketing decisions
 - Identified key patterns like Q4 and FMCG-product success
 
-### 📱 [iPhone Sales Analysis – Python](https://github.com/hiraazmat381/iPhone-Sales-Analysis)
+### 📱 [iPhone Sales Analysis – Python](https://github.com/hiraazmat381/IPHONE_DATA_SALES_ANALYSIS)
 - Used pandas, NumPy, and Plotly for data wrangling and visualization
 - Analyzed pricing, discounts, and reviews on Flipkart India
 
