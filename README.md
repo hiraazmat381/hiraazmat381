@@ -33,7 +33,7 @@ Relevant coursework:
 
 ## 📂 Projects
 
-### 📊 [Marketing Campaign Success Dashboard – Power BI](#)
+### 📊 [Marketing Campaign Success Dashboard – Power BI](https://github.com/hiraazmat381/Marketing-Campaign-Success-Dashboard)
 - Analyzed campaign success by budget, channels, categories, and time periods
 - Visualized KPIs to guide marketing decisions
 - Identified key patterns like Q4 and FMCG-product success
@@ -42,11 +42,11 @@ Relevant coursework:
 - Used pandas, NumPy, and Plotly for data wrangling and visualization
 - Analyzed pricing, discounts, and reviews on Flipkart India
 
-### 📈 [Retail Store Inventory Dashboard – Excel](#)
+### 📈 [Retail Store Inventory Dashboard – Excel](https://github.com/hiraazmat381/Data-Analysis-Project-Vrinda-Store-Online-Sales-Dashboard)
 - Created dynamic dashboard using pivot tables and slicers
 - Monitored stock levels, revenue, and product turnover
 
-### 🧠 [Work-Life Balance Among Professionals – NLP Research](#)
+### 🧠 [Work-Life Balance Among Professionals – NLP Research](https://github.com/hiraazmat381/Qualitative-Study-WorkLife-Balance)
 - Used NLTK for tokenization, lemmatization, sentiment scoring
 - Analyzed qualitative feedback and prepared summary reports
 
