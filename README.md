@@ -59,10 +59,10 @@ Relevant coursework:
 
 ## 📜 Certifications
 
-- [Google Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/XXXX)  
-- [Unilever Digital Marketing Analyst – Coursera](https://www.coursera.org/account/accomplishments/verify/XXXX)  
-- [Machine Learning Specialization – Coursera](https://www.coursera.org/account/accomplishments/verify/XXXX)  
-- [Data Analysis & BI – DigiSkills](https://lms.digiskills.pk/MyResults/MyResults.aspx)
+- [Google Data Analytics – Coursera]  
+- [Unilever Digital Marketing Analyst – Coursera] 
+- [Machine Learning Specialization – Coursera] 
+- [Data Analysis & BI – DigiSkills]
 
 ---
 
